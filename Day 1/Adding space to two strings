@@ -1,0 +1,2 @@
+print("Hello "+"Rajii" )             # Either we can use space like this :- "Hello "
+print("Hello"+" "+"Rajii")"          # or we can use                     :- +" "+
