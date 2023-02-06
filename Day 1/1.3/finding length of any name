@@ -1,2 +1,1 @@
-s=input("What is your name? ")                #Here we have to take any number and assign input to it
-print(len(s))                                 #len() function is used to find out the length of any name where the assingned character is placed in between the ()
+print(len(input("What is your name? ")))              #Here firstly input function is exicuted and then the len() function after that length of the string is printed by the print function.
