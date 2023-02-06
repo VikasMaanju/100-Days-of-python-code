@@ -1,0 +1,2 @@
+s=input("What is your name? ")                #Here we have to take any number and assign input to it
+print(len(s))                                 #len() function is used to find out the length of any name where the assingned character is placed in between the ()
