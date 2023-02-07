@@ -1,0 +1,15 @@
+#Here two_digit_number is a variable which take input from user
+
+#We can find out the type of input by using the funtion " type(two_digit_number)" ie : here it is of string type 
+
+two_digit_number = input("Type a two digit number: ")
+
+#Here "a" is the first letter of the string and "b" is second letter.(  [0] is used to find the first letter of any string and [1] for second.
+
+a=(two_digit_number)[0]
+
+b=(two_digit_number)[1]
+
+#Here string a and b are again converted into integer type by using  int(a) and int(b) function which convert str into int. 
+
+print(int(a)+int(b))
