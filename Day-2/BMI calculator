@@ -1,0 +1,14 @@
+ #Here height and weight are in string data type
+ 
+height = input("enter your height in m: ")
+weight = input("enter your weight in kg: ")
+
+
+#We converted weight and height into float data type 
+
+
+BMI=float(weight)/(float(height)*float(height))
+
+#As we needed  BMI as an whole number so we converted it into int data type 
+
+print(int(BMI))
