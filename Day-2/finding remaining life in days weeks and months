@@ -1,0 +1,14 @@
+
+age = input("What is your current age? ")
+
+#Here  (years) denotes remaining life in years , round function is used to convert the output into round figure.
+
+
+years = 90 - int(age)
+months = round(years * 12)
+weeks = round(years * 52)
+days = round(years * 365)
+
+#We use (f) to convert different type of data into a single string.
+
+print(f"You have {days} days, {weeks} weeks, and {months} months left.")
