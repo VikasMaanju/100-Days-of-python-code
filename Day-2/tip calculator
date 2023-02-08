@@ -1,0 +1,18 @@
+
+#Here we use float because the amount can be in decimal 
+
+Bill = float(input("enter total bill amount : "))
+
+#Tip is also in floating point 
+
+tip = float(input("how much percent tip you want to give? : "))
+people= int(input("How much people you are? : "))
+total_tip = Bill*(tip/100)
+total_bill=total_tip + Bill
+per_person_bill = (total_bill/people)
+
+#To get final bill we use "{:. 2f}".format() because it is used to convert single decimal into two or more decimal
+#We can also use round(per_person_bill,2) but it only round numbers to 2 deceimal but cant increase single decimal to 2 decimal
+
+final_bill="{:.2f}".format(per_person_bill)
+print(final_bill)
