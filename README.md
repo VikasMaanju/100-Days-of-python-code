@@ -10,4 +10,8 @@ DAY-2:-2️⃣
 2. Creat a BMI calculator which print BMI as an whole number 
 3. Creat a function to calculate remaining age using fstring.
 4. Made a function of tip calculator.
+
+Day-3:-3️⃣
+
+1. Odd even checker in python using if else statement.
             
