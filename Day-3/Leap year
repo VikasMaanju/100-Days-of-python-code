@@ -1,0 +1,16 @@
+
+year = int(input("Which year do you want to check? "))
+
+# A year is leap if it is devisible by 4 , if it is divisible by 4 then we have to check is it divisible by 100 or not , if it is divisible by 100 then the year is not leap,but if it is not divisible by 100 then we have to check its divisibility by 400, if it is divisible by 400 then it is a leap year.
+
+
+if year%4==0:
+    if year%100!=0:
+        print("Leap year.")
+    elif year%100==0:
+        if year%400==0:
+            print("Leap year.")
+        else:
+            print("Not leap year.")
+else:
+    print("Not leap year.")  
