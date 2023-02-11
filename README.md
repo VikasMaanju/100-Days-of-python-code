@@ -15,4 +15,5 @@ Day-3:-3️⃣
 
 1. Odd even checker in python using if else statement.
 2. BMI calculator using if else and elif statement.
+3. Finding given year is leap or not.
             
