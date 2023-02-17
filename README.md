@@ -19,4 +19,7 @@ Day-3:-3️⃣
 4. Pizza delivery program.
 5. Love calculator.
 6. Tressure hunt program.
+
+Day-4:-4️⃣
+1. Printing any random integer or floating number
             
