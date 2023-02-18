@@ -24,4 +24,5 @@ Day-4:-4️⃣
 1. Printing any random integer or floating number
 2. Coin flipping program
 3. List in python
+4. Random bill payer calculator using list,random integer and split function.
             
