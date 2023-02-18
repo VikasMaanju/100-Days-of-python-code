@@ -1,0 +1,18 @@
+#here random is imported because to print random number beteen any two numbers
+
+import random
+names_string = input("Enter the name of everybody :-")
+
+# Split(",")  function is used to split the given single string into multiple names as list i.e ()"this,is,me") to ["this","is","me"]
+
+names=names_string.split(",")
+
+# len() will calculate the total number of items in a list
+
+total_people=len(names)
+
+# random.randint() randomly choose any integer between given number between the ()
+
+random_people=random.randint(0,total_people-1)
+
+print(names[random_people] +" Will pay the bill")
