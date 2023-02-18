@@ -1,0 +1,12 @@
+#list is used to store similer type of different data in a single variable
+
+state_of_india =['Rajasthan','Madhya Pradesh','Maharashtra','Andhra Pradesh','Uttar Pradesh']
+
+#the below print function will print the string which is at number 3 because list numbering start with 0 , 1 ,2 and so on
+
+print(state_of_india[2])
+
+
+print(state_of_india[3])
+
+
