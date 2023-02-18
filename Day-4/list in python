@@ -10,4 +10,22 @@ print(state_of_india[2])
 
 print(state_of_india[-2])
 
+#to edit any name in the list we can use the following program
+
+state_of_india[1]="Haryana"
+print(state_of_india)
+
+
+#if we want to add a new item in the list we can use the below program
+
+state_of_india.append("Bihar")
+print(state_of_india)
+
+#if we want to add multiple items in the list then the following program is used
+
+state_of_india.extend(["Kanpur","Sirsa","Hisar"])
+print(state_of_india)
+
+#to access different function :- https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+
 
