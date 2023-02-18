@@ -6,7 +6,8 @@ state_of_india =['Rajasthan','Madhya Pradesh','Maharashtra','Andhra Pradesh','Ut
 
 print(state_of_india[2])
 
+# (-) will print the last index i.e. if [-1] it will print the last string ,[-2] will print the second last index.
 
-print(state_of_india[3])
+print(state_of_india[-2])
 
 
