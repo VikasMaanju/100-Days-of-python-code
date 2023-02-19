@@ -25,13 +25,16 @@ scissors = '''
 ---.__(___)
 '''
 
-
 import random
+images =[rock,paper,scissors]
 
 your_choice = int(input("Write 0 for rock 1 for paper and 2 for scissor :-"))
 print(f"Your choice = {your_choice} ")
+print(images[your_choice])
+
 computer_choice=random.randint(0,2)
 print(f"computer choice is = {computer_choice}")
+print(images[computer_choice])
 if your_choice==0 and computer_choice==1: 
   print("You lose")
 elif your_choice==0 and computer_choice==2:
