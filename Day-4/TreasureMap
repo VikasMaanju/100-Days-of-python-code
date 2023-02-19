@@ -1,0 +1,16 @@
+row1 = ["⬜️","️⬜️","️⬜️"]
+row2 = ["⬜️","⬜️","️⬜️"]
+row3 = ["⬜️️","⬜️️","⬜️️"]
+map = [row1, row2, row3]
+print(f"{row1}\n{row2}\n{row3}")
+position = input("Where do you want to put the treasure? ")
+
+#Here (column) will denotes the position of sub list and row will denotes the position of list i.e list[[1,2,3],[3,4,5]] then if we put input as 21 so we have to minus 1 from both the digits and reverse the positon of the digits i.e (2-1) and (1-1) and then write as 01 which denotes the postion 2nd element of 1st list 
+
+column=int(position[0])-1
+row=int(position[1])-1
+map[row][column]='X'
+
+
+print(f"{row1}\n{row2}\n{row3}")
+
