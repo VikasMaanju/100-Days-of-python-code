@@ -1,0 +1,16 @@
+#Use of for loop in list
+
+fruits =["Apple","Pear","Grapes","Mango"]
+
+#In this list there are four items
+
+# Here "Fruit" is a variable which store the each fruit value during the loop 
+#Indentation is very important in python so we have to take care of the indentation
+
+
+for fruit in fruits:
+    print(fruit) 
+    print("Sweet "+fruit )
+    print(fruits)
+print(fruits)    
+    
