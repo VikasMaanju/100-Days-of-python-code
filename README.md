@@ -30,3 +30,4 @@ Day-4:-4️⃣
 
 Day-5:-5️⃣
 1. Use of for loop in python list.
+2. Calculating average height using for loop.
