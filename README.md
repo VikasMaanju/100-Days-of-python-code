@@ -27,3 +27,6 @@ Day-4:-4️⃣
 4. Random bill payer calculator using list,random integer and split function.
 5. Treasure map using nested list   
 6. Rock paper scissor
+
+Day-5:-5️⃣
+1. Use of for loop in python list.
