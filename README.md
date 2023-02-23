@@ -32,3 +32,5 @@ Day-5:-5️⃣
 1. Use of for loop in python list.
 2. Calculating average height using for loop.
 3. Finding highest score in a list using for loop
+4. Finding sum of even number between 1 and 100.
+5. Fizz buzz game
