@@ -1,0 +1,12 @@
+sum=0
+
+#Here we have to find sum of even number
+# so we start the range from 2 to 101 and
+
+#to access only even number 2 is written after the comma.
+
+for number in range(2,101,2):
+
+    sum+=number
+
+print(sum)   
