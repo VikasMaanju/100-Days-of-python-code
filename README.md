@@ -34,3 +34,6 @@ Day-5:-5️⃣
 3. Finding highest score in a list using for loop
 4. Finding sum of even number between 1 and 100.
 5. Fizz buzz game
+
+Day-6:-6️⃣
+1. Reeborg's world using while loop and if statement.
