@@ -1,0 +1,10 @@
+def my_function(name,location):
+    print(f"Hello {name}")
+    print(f"How are you doing in my {location}")
+    
+    
+my_function("Rahima","My heart")   
+
+#here positon of arguments does not matter when assigned inside the function
+
+my_function(location="My heart", name="Rahima") 
