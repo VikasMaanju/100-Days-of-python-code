@@ -39,3 +39,6 @@ Day-6:-6️⃣
 1. Reeborg's world using while loop and if statement.
 2. Reeborgs world hurdle#4
 3. Hangman
+
+Day-8:-8️⃣
+1. Positional and  keyword arguments
