@@ -43,3 +43,4 @@ Day-6:-6️⃣
 Day-8:-8️⃣
 1. Positional and  keyword arguments
 2. Simple function for can calcualtion for wall painting.
+3. Prime number checking.
