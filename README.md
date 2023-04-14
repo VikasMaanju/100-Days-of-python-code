@@ -44,3 +44,8 @@ Day-8:-8️⃣
 1. Positional and  keyword arguments
 2. Simple function for can calcualtion for wall painting.
 3. Prime number checking.
+4. cieser cipher
+
+Day-9:-9️⃣ - Dictionary and nesting
+
+1. Changing an existing dictionary using for loop 
