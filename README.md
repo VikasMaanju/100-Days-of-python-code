@@ -49,3 +49,4 @@ Day-8:-8️⃣
 Day-9:-9️⃣ - Dictionary and nesting
 
 1. Changing an existing dictionary using for loop 
+2. Nesting list and dictionaries in an list and dictionary
