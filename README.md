@@ -57,3 +57,4 @@ Day-10:-1️⃣0️⃣-Function and output
 1. Title casing any string
 2. Leap year
 3. Simple calculator using functions and dictionary
+4. calculator updated
